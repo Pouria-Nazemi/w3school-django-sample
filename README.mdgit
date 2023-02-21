@@ -1,0 +1,2 @@
+"# w3school-django-sample"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Pouria-Nazemi/w3school-django-sample.gitgit push -u origin main
+"# w3school-django-sample"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Pouria-Nazemi/w3school-django-sample.gitgit push -u origin main
